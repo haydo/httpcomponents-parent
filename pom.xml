@@ -46,7 +46,7 @@
 Version 10 - changes since version 9
 ====================================
 
-maven-surefire-plugin 2.20 -> 2.20.1
+maven-surefire-plugin 2.20 -> 2.20.1 (required to build with Java 9 GA.)
 
 Version 9 - changes since version 8
 ===================================
